@@ -1,0 +1,29 @@
+{
+    "layout": {
+        "type": "layout",
+        "pages": ["general"],
+        "general": {
+            "type": "page",
+            "title": "General",
+            "sections": ["stations-section"]
+        },
+        "stations-section": {
+            "type": "section",
+            "title": "Radio Stations",
+            "keys": ["stations"]
+        }
+    },
+    "stations": {
+        "type": "list",
+        "default": [
+            {"name": "Lofi Girl", "url": "https://live.bilibili.com/27519423"},
+            {"name": "Truck Sim FM", "url": "https://listen.openstream.co/6290/audio"}
+        ],
+        "columns": [
+            {"id": "name", "title": "Name", "type": "string"},
+            {"id": "url", "title": "URL", "type": "string"}
+        ],
+        "description": "List of radio stations",
+        "tooltip": "Add or edit radio stations to listen to"
+    }
+}

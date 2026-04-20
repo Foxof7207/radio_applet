@@ -1,0 +1,10 @@
+{
+    "uuid": "radio@foxof7207",
+    "name": "Radio",
+    "description": "A simple applet to listen to different online audio streams right in your taskbar",
+    "version": "1.0",
+    "multiversion": false,
+    "cinnamon-version": ["5.4", "5.6", "6.0", "6.6"],
+    "author": "foxof7207",
+    "icon": "radio"
+}
