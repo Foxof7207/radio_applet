@@ -89,8 +89,3 @@ radio@foxof7207/
 - Audio-only playback (mpv is configured with `--no-video` flag)
 - Multiple stream are played at the same time under certain conditions
 - Stream information (bitrate, duration, etc.) is not displayed
-
-
-## License
-
-This project is available as-is for personal use. Feel free to modify and adapt it to your needs.
