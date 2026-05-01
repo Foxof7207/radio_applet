@@ -6,5 +6,5 @@
     "multiversion": false,
     "cinnamon-version": ["5.4", "5.6", "6.0", "6.6"],
     "author": "foxof7207",
-    "icon": "radio"
+    "icon": "radiotray"
 }
